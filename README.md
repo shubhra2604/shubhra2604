@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubhra Kiran Bid
 
-<!--
-**shubhra2604/shubhra2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Developer | Full-Stack Development | AI Integration
 
-Here are some ideas to get you started:
+> Building real-world applications, solving problems, and learning something new every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a Computer Science & Engineering student at **Manipal University Jaipur** passionate about building modern, scalable applications.
+
+- 🔭 Currently building **full-stack & AI-powered applications**
+- 🌱 Learning **advanced DSA, system design & software engineering**
+- 💻 Working with **React, Node.js, Express, MongoDB & Java**
+- 🤖 Interested in **AI integration and intelligent applications**
+- 🧠 Strong focus on **problem solving & CS fundamentals**
+- 🎯 Preparing for **Software Development Engineer roles**
+- 🤝 Open to collaborating on interesting projects
+- 📫 Reach me through my social links below
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Java · C++ · Python · JavaScript
+
+**Frontend:** React · Redux Toolkit · Tailwind CSS · Vite
+
+**Backend:** Node.js · Express.js · MongoDB · SQL · REST APIs · WebSockets
+
+**Tools & APIs:** Git · GitHub · Firebase · Clerk · Razorpay · Gemini API
